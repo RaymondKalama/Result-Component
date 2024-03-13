@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/result-summary-component-8_ZpCIMOwc)
 - Live Site URL: (https://raymondkalama.github.io/Result-Component/)
 
 ## My process

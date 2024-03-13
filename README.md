@@ -8,7 +8,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 
 ### The challenge
@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://raymondkalama.github.io/Result-Component/)
 
 ## My process
 

@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://raymondkalama.github.io/Result-Component/)
+- Live Site URL: (https://raymondkalama.github.io/Result-Component/)
 
 ## My process
 
